@@ -41,7 +41,7 @@ De organisatie KeenData is nieuw (de website is in ontwikkeling), maar wij hebbe
 De opdrachten worden uitgevoerd door dataprofessionals, die de relevante technische bagage hebben.
 
 ## Contact
-Caspar Dik is de eigenaar van KeenData en eerste aanspreekpunt.
+Caspar Dik is de eigenaar van KeenData en aanspreekpunt.
 Met kennis en ervaring van de techniek vormt hij de brug met de business. 
 Bekijk het [profiel van Caspar](https://www.linkedin.com/in/caspardik/) op LinkedIn. 
 Neem contact op met Caspar via 06-52007354 of stuur een bericht via LinkedIn.
