@@ -1,12 +1,13 @@
 ---
-title: 🎓
+title: 🎓 KeenData
 description: Homepagina
 ---
 
-| 🛠 Let op, deze site is aanbouw. |
-| :----: |
+```
+🛠 Let op, deze site is aanbouw.
+```
 
-  > # ⚡ Onze passie ligt in het creëren van meerwaarde voor uw organisatie met inzichten uit data en automatisering. ⚡ 
+<h2 style="color:blue"> ⚡ Wij vinden het gaaf om u te helpen met inzichten uit data ⚡ </p>
 
 ## Waarom: Uw organisatie en diensten verbeteren met gefundeerde inzichten
 Uw organisatie dient een doel en heeft een strategie om dat te bereiken.
@@ -36,11 +37,11 @@ Het actieplan kan stappen bevatten, zoals:
 - het introduceren van technieken, zoals versiebeheer, CI/CD en agile werken
 - het opzetten
 
-KeenData is nieuw (de website is in ontwikkeling), maar wij hebben jarenlange ervaring in het bedienen van klanten.
-De opdrachten worden uitgevoerd door dataprofessionals, die de relevante technische bagage hebben. 
+De organisatie KeenData is nieuw (de website is in ontwikkeling), maar wij hebben jarenlange ervaring in het bedienen van klanten.
+De opdrachten worden uitgevoerd door dataprofessionals, die de relevante technische bagage hebben.
 
 # Contact
-Caspar Dik is de eigenaar en eerste aanspreekpunt.
+Caspar Dik is de eigenaar van KeenData en eerste aanspreekpunt.
 Met kennis en ervaring van de techniek vormt hij de brug met de business. 
 Bekijk het [profiel van Caspar](https://www.linkedin.com/in/caspardik/) op LinkedIn. 
 Neem contact op met Caspar via 06-52007354 of stuur een bericht via LinkedIn.
