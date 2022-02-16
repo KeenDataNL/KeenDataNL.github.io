@@ -7,7 +7,7 @@ description: Homepagina
 🛠 Let op, deze site is aanbouw.
 ```
 
-<p style="font-size:1.1rem;"> ⚡ Wij vinden het gaaf om u te helpen met inzichten uit data ⚡ </p>
+<p style="font-size:24px;"> ⚡ Wij vinden het gaaf om u te helpen met inzichten uit data ⚡ </p>
 
 ## Waarom: Uw organisatie en diensten verbeteren met gefundeerde inzichten
 Uw organisatie dient een doel en heeft een strategie om dat te bereiken.
