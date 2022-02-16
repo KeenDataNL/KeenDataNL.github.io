@@ -11,10 +11,10 @@ Het bedrijf is nieuw, de website moet nog worden ontwikkeld, maar wij hebben jar
 
 # Wie zijn wij?
 Caspar Dik is de eigenaar en eerste aanspreekpunt.
-Hij vormt met kennis en ervaring van de techniek de brug met de business. 
+Met kennis en ervaring van de techniek vormt hij de brug met de business. 
 Bekijk het [profiel van Caspar](https://www.linkedin.com/in/caspardik/) op LinkedIn. 
 
-Bij opdrachten betekt Caspar vaak andere dataprofessionals die nog meer technische bagage hebben. 
+Bij opdrachten worden vaak dataprofessionals ingezet die technische bagage op de relevante deelgebieden hebben. 
 
 # Contact
 Neem contact op met Caspar via 06-52007354 of stuur een bericht via LinkedIn.
