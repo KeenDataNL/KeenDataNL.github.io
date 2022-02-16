@@ -9,7 +9,7 @@ description: Homepagina
 
 [comment]: # (<p style="font-size:28px;text-align:center;"> ⚡ Wij helpen u graag verder om met inzichten uit uw data ⚡ </p>)
 
-## Why: Uw organisatie en diensten verbeteren met gefundeerde inzichten
+## 'Why': Uw organisatie en diensten verbeteren met gefundeerde inzichten
 Uw organisatie dient een doel en heeft een strategie om dat te bereiken.
 Wij helpen organisaties om die strategie te realiseren door het creëren van operationele of strategische inzichten.
 Inzichten op basis van data helpen u om structureel essentiële zaken te verbeteren 🚀, zoals:
@@ -19,11 +19,11 @@ Inzichten op basis van data helpen u om structureel essentiële zaken te verbete
 - toekomstbestendiheid
 - omzet, kosten en winst
  
-## How: Planmatig in actie op basis van kennis & ervaring
+## 'How': Planmatig in actie op basis van kennis & ervaring
 Samen inventariseren wij waar u staat, waarna wij met u de doelsituatie en het pad daarnaartoe in kaart brengen.
 Bepalende factoren kunnen liggen op het vlak van de interne organisatie, afzonderlijke medewerkers, stakeholders, techniek, datakwaliteit, security, kosten, etcetera.
 
-## What: Verankerde verandering
+## 'What': Verankerde verandering
 De beoogde veranderingen kunnen op veel vlakken liggen en wij helpen u met een brede blik en ervaring.
 Het kan gaan om inzicht in de interne processen en prestaties, het gedrag van klanten, het voorspellen van onderhoud.
 
@@ -40,7 +40,4 @@ Opdrachten worden uitgevoerd door dataprofessionals, die de relevante technische
 Onze technische expertise ligt op gebieden als data analyse, data engineering, data warehousing, data science, cloud services, versiebeheer, DevOps, CI/CD, SSIS, Data Factory, kubussen, Power BI, Excel en Python.    
 
 ## Contact
-Caspar Dik is de eigenaar van KeenData en aanspreekpunt.
-Met kennis en ervaring van de techniek vormt hij de brug met de business. 
-Bekijk het [profiel van Caspar](https://www.linkedin.com/in/caspardik/) op LinkedIn. 
-Neem contact op met Caspar via 06-52007354 of stuur een bericht via LinkedIn.
+We helpen u graag verder. Neem vrijblijvend contact op met Caspar Dik (eigenaar KeenData) via 06-52007354 of stuur een bericht via LinkedIn. Bekijk het [profiel van Caspar](https://www.linkedin.com/in/caspardik/) op LinkedIn.
