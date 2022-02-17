@@ -35,6 +35,7 @@ Het actieplan kan stappen bevatten, zoals het:
 - introduceren van technieken, zoals versiebeheer, CI/CD en agile werken
 - maken van maatwerkanalyses of rapportages
 
+## Toolbox
 De organisatie KeenData is nieuw (de website is in ontwikkeling), maar wij hebben jarenlange ervaring in het bedienen van klanten.
 Opdrachten worden uitgevoerd door dataprofessionals, die de relevante technische bagage hebben.
 Onze technische expertise ligt op gebieden als data analyse, data engineering, data warehousing, data science, cloud services, versiebeheer, DevOps, CI/CD, SSIS, Data Factory, kubussen, Power BI, Excel en Python.    
