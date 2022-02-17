@@ -40,4 +40,4 @@ Opdrachten worden uitgevoerd door dataprofessionals, die de relevante technische
 Onze technische expertise ligt op gebieden als data analyse, data engineering, data warehousing, data science, cloud services, versiebeheer, DevOps, CI/CD, SSIS, Data Factory, kubussen, Power BI, Excel en Python.    
 
 ## Contact
-We helpen u graag verder. Neem vrijblijvend contact op met Caspar Dik (eigenaar KeenData) via **06-52007354** of stuur een **bericht via LinkedIn**. Bekijk het [profiel van Caspar](https://www.linkedin.com/in/caspardik/) op LinkedIn.
+We helpen u graag verder. Neem vrijblijvend contact op met Caspar Dik (eigenaar KeenData) via <NOBR>**06-52007354**</NOBR> of stuur een **bericht [via LinkedIn](https://www.linkedin.com/in/caspardik/)**.
